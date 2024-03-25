@@ -1,1 +1,1 @@
-# hackathon-css-day
+# css-day-hackathon
