@@ -19,15 +19,15 @@ a, button {
 :root {
     /* Colors */
     --white: #FFFFFF;
-    --color-2013: #C804C1;
-    --color-2014: #86D3FF;
-    --color-2015: #F5D115;
-    --color-2016: #EA5502;
-    --color-2017: #4343FF;
-    --color-2018: #3EED7A;
-    --color-2022: #EA028D;
-    --color-2023: #F69A02;
-    --color-2024: #EDEDED;
+    --color-2013: #FF0000;
+    --color-2014: #000080;
+    --color-2015: #7BA229;
+    --color-2016: #FF69B4;
+    --color-2017: #F5D115;
+    --color-2018: #FF6347;
+    --color-2022: #00BFFF;
+    --color-2023: #3CB371;
+    --color-2024: #9932CC;
 
     /* Border radius */
     --border-radius: 50%;
