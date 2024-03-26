@@ -2,18 +2,104 @@ header {
     height: 8em;
 
     display: flex;
-    justify-content: center;
+    justify-content: start;
     flex-direction: column;
 
-    padding: 0 2em;
+    margin: 2em;
 }
 
 main {
-    height: calc(100dvh - 8em);
+    height: calc(100dvh - 14em);
+
+    margin: 2em;
 }
 
 
+main > ul {
+    width: 100%;
+    height: 100%;
 
+    position: relative;
+
+    display: grid;
+    grid-template-columns: repeat(24, 1fr);
+    align-items: end;
+}
+
+main > ul li {
+    list-style: none;
+}
+
+main > ul li:nth-of-type(1) {
+    grid-column: 1/6;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+
+main > ul li:nth-of-type(2) {
+    grid-column: 3/6;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+main > ul li:nth-of-type(3) {
+    grid-column: 5/12;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+}
+
+main > ul li:nth-of-type(4) {
+    grid-column: 6/11;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+main > ul li:nth-of-type(5) {
+    grid-column: 9/13;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+main > ul li:nth-of-type(6) {
+    grid-column: 12/20;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+main > ul li:nth-of-type(7) {
+    grid-column: 14/22;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+
+main > ul li:nth-of-type(8) {
+    grid-column: 18/22;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+main > ul li:nth-of-type(9) {
+    grid-column: 20/25;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+main > ul li a svg {
+    width: 100%;
+    height: 100%;
+}
 
 
 
