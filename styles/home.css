@@ -10,24 +10,12 @@ header {
 
 main {
     height: calc(100dvh - 8em);
-
-    padding: 2em 2em;
-
-    & ul {
-        height: 100%;
-
-        background-color: gray;
-
-        & li {
-            list-style: none;
-
-            &:nth-of-type(1) {
-                width: 12em;
-                aspect-ratio: 1/1;
-                background-color: var(--color-2013);
-            }
-        }
-    }
 }
+
+
+
+
+
+
 
 

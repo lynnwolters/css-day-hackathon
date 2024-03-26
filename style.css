@@ -28,6 +28,9 @@ a, button {
     --color-2022: #EA028D;
     --color-2023: #F69A02;
     --color-2024: #EDEDED;
+
+    /* Border radius */
+    --border-radius: 50%;
 }
 
 /* FONTS */
