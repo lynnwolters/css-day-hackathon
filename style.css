@@ -1,4 +1,47 @@
+/* GENERAL */
+
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
+
+body {
+    background-color: var(--color-1);
+}
+
+a, button {
+    cursor: pointer;
+}
+
+/* ROOT */
+
+:root {
+    /* Colors */
+    --white: #FFFFFF;
+    --color-2013: #C804C1;
+    --color-2014: #86D3FF;
+    --color-2015: #F5D115;
+    --color-2016: #EA5502;
+    --color-2017: #4343FF;
+    --color-2018: #3EED7A;
+    --color-2022: #EA028D;
+    --color-2023: #F69A02;
+    --color-2024: #EDEDED;
+}
+
+/* FONTS */
+
+h1, h2, h3, h4, h5, h6, p, a, button {
+    font-family: "Outfit", sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+
+p, a, button {
+    font-weight: 300;
+}
+
