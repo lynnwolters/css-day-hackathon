@@ -10,7 +10,7 @@ body {
     background-color: var(--color-1);
 }
 
-a, button {
+button {
     cursor: pointer;
 }
 
@@ -19,6 +19,7 @@ a, button {
 :root {
     /* Colors */
     --white: #FFFFFF;
+    --black: #000000;
     --color-2013: #FF0000;
     --color-2014: #000080;
     --color-2015: #7BA229;
@@ -28,9 +29,6 @@ a, button {
     --color-2022: #00BFFF;
     --color-2023: #3CB371;
     --color-2024: #9932CC;
-
-    /* Border radius */
-    --border-radius: 50%;
 }
 
 /* FONTS */
