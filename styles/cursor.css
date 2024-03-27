@@ -1,0 +1,29 @@
+.custom-cursor-element {
+    width: 1em;
+    aspect-ratio: 1/1;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2000;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--black);
+
+    border-radius: 100%;
+
+    color: var(--white);
+    font-size: .8em;
+    font-weight: 300;
+
+    pointer-events: none;
+
+    transition: .3s ease-out; 
+}
+
+.custom-cursor-element.animate-grow {
+    width: 6em;
+}
