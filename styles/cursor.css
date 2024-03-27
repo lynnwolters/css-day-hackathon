@@ -1,4 +1,4 @@
-.custom-cursor {
+.custom-cursor-element {
     width: 1em;
     aspect-ratio: 1/1;
 
@@ -24,6 +24,6 @@
     transition: .3s ease-out; 
 }
 
-.custom-cursor.grow-cursor {
+.custom-cursor-element.animate-grow {
     width: 6em;
 }
