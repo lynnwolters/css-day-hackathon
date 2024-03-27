@@ -1,11 +1,25 @@
-<svg width="275" height="609" viewBox="0 0 275 609" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M56 0C25.0721 0 0 25.0721 0 56V553C0 583.928 25.0721 609 56 609C56.6274 609 57.2525 608.99 57.8749 608.969C59.3667 608.92 60.8604 608.925 62.3523 608.973C62.8993 608.991 63.4486 609 64 609H225C252.614 609 275 586.614 275 559V134C275 106.386 252.614 84 225 84H140C124.536 84 112 71.464 112 56V56C112 25.0721 86.9279 0 56 0Z" fill="#F69A02"/>
-<path d="M133 170.667C133 162.014 140.014 155 148.667 155H161.333C169.986 155 177 162.014 177 170.667V180C177 192.15 167.15 202 155 202C142.85 202 133 192.15 133 180V170.667Z" fill="black"/>
-<ellipse cx="10.2777" cy="6.07256" rx="10.2777" ry="6.07256" transform="matrix(0.711393 -0.702794 0.272054 0.962282 155.786 188.54)" fill="white"/>
-<circle cx="114" cy="152" r="14" fill="white"/>
-<circle cx="114.45" cy="152.45" r="8.75" transform="rotate(-165 114.45 152.45)" fill="black"/>
-<circle cx="119.22" cy="146.78" r="3.5" transform="rotate(-165 119.22 146.78)" fill="white"/>
-<circle cx="197" cy="152" r="15" fill="white"/>
-<circle cx="196.482" cy="152.482" r="9.375" transform="rotate(-75 196.482 152.482)" fill="black"/>
-<circle cx="203.856" cy="146.348" r="3.75" transform="rotate(-75 203.856 146.348)" fill="white"/>
+<svg width="275" height="762" viewBox="0 0 275 762" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="2023">
+<path id="lichaam" fill-rule="evenodd" clip-rule="evenodd" d="M56 0C25.0721 0 0 25.072 0 56V706C0 736.928 25.0721 762 56 762C56.6274 762 57.2525 761.99 57.8749 761.969C59.3667 761.92 60.8604 761.925 62.3523 761.973C62.8993 761.991 63.4486 762 64 762H225C252.614 762 275 739.614 275 712V142C275 114.386 252.614 92 225 92H142C125.431 92 112 78.5685 112 62V56C112 25.0721 86.9279 0 56 0Z" fill="#3CB371"/>
+<g id="mond">
+<path id="Rectangle 10" d="M133 170.667C133 162.014 140.014 155 148.667 155H161.333C169.986 155 177 162.014 177 170.667V180C177 192.15 167.15 202 155 202C142.85 202 133 192.15 133 180V170.667Z" fill="black"/>
+<ellipse id="Ellipse 13" cx="10.2777" cy="6.07256" rx="10.2777" ry="6.07256" transform="matrix(0.711393 -0.702794 0.272054 0.962282 155.786 188.54)" fill="white"/>
+</g>
+<g id="ogen">
+<g id="Group 15">
+<circle id="Ellipse 2" cx="114" cy="152" r="14" fill="white"/>
+<g id="Group 13">
+<circle id="Ellipse 5" cx="114.45" cy="152.45" r="8.75" transform="rotate(-165 114.45 152.45)" fill="black"/>
+<circle id="Ellipse 6" cx="119.22" cy="146.78" r="3.5" transform="rotate(-165 119.22 146.78)" fill="white"/>
+</g>
+</g>
+<g id="Group 16">
+<circle id="Ellipse 2_2" cx="197" cy="152" r="15" fill="white"/>
+<g id="Group 11">
+<circle id="Ellipse 5_2" cx="196.482" cy="152.482" r="9.375" transform="rotate(-75 196.482 152.482)" fill="black"/>
+<circle id="Ellipse 6_2" cx="203.856" cy="146.348" r="3.75" transform="rotate(-75 203.856 146.348)" fill="white"/>
+</g>
+</g>
+</g>
+</g>
 </svg>

@@ -1,10 +1,25 @@
 <svg width="487" height="206" viewBox="0 0 487 206" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 103C0 46.1147 46.1147 0 103 0H384C440.885 0 487 46.1147 487 103V171C487 190.33 471.33 206 452 206H30C13.4315 206 0 192.569 0 176V103Z" fill="#EA028D"/>
-<circle cx="124" cy="45" r="16" fill="white"/>
-<circle cx="122" cy="45" r="10" fill="black"/>
-<circle cx="130" cy="51" r="4" fill="white"/>
-<circle cx="201" cy="45" r="16" fill="white"/>
-<circle cx="199" cy="45" r="10" fill="black"/>
-<circle cx="207" cy="51" r="4" fill="white"/>
-<path d="M149 67.7692C149 64.583 151.583 62 154.769 62H179.231C182.417 62 185 64.583 185 67.7692V69C185 78.9411 176.941 87 167 87C157.059 87 149 78.9411 149 69V67.7692Z" fill="black"/>
+<g id="2022">
+<path id="Rectangle 14" d="M0 103C0 46.1147 46.1147 0 103 0H384C440.885 0 487 46.1147 487 103V171C487 190.33 471.33 206 452 206H30C13.4315 206 0 192.569 0 176V103Z" fill="#00BFFF"/>
+<g id="mond">
+<path id="Rectangle 9" d="M146 72.7692C146 69.583 148.583 67 151.769 67H176.231C179.417 67 182 69.583 182 72.7692V74C182 83.9411 173.941 92 164 92C154.059 92 146 83.9411 146 74V72.7692Z" fill="black"/>
+<ellipse id="Ellipse 13" cx="168.599" cy="83.5572" rx="8.0571" ry="3.15852" transform="rotate(-27.8559 168.599 83.5572)" fill="white"/>
+</g>
+<g id="ogen">
+<g id="Group 2">
+<g id="Group 4">
+<circle id="Ellipse 2" cx="124" cy="45" r="16" fill="white"/>
+<circle id="Ellipse 5" cx="122" cy="45" r="10" fill="black"/>
+<circle id="Ellipse 6" cx="130" cy="51" r="4" fill="white"/>
+</g>
+</g>
+<g id="Group 32">
+<g id="Group 4_2">
+<circle id="Ellipse 2_2" cx="201" cy="45" r="16" fill="white"/>
+<circle id="Ellipse 5_2" cx="199" cy="45" r="10" fill="black"/>
+<circle id="Ellipse 6_2" cx="207" cy="51" r="4" fill="white"/>
+</g>
+</g>
+</g>
+</g>
 </svg>
