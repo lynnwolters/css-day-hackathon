@@ -1,5 +1,5 @@
 const customCursor = document.querySelector(".custom-cursor")
-const grows = document.querySelectorAll(".grow")
+const cursorGrowElement = document.querySelectorAll(".cursor-grow-element")
 
 document.addEventListener("mousemove", animateCursor)
 
@@ -7,7 +7,7 @@ function animateCursor({ clientX, clientY }) {
     customCursor.style.transform = `translate3d(calc(${clientX}px - 50%), calc(${clientY}px - 50%), 0)`
 }
 
-grows.forEach((grow) => {
+cursorGrowElement.forEach((grow) => {
     grow.addEventListener("mouseover", growCursor)
     grow.addEventListener("mouseout", shrinkCursor)
 })
