@@ -2,9 +2,15 @@ nav {
     z-index: 1000;
 
     display: flex;
-    justify-content: end;
+    justify-content: space-between;
+    align-items: center;
 
     margin: 2em;
+}
+
+nav > a {
+    text-decoration: none;
+    color: var(--black);
 }
 
 nav button {
@@ -47,7 +53,7 @@ nav > ul {
     transition: .6s;
 }
 
-nav > ul.toggle-menu-css {
+nav > ul.toggle-menu {
     transform: translateY(0%);
 }
 
@@ -224,6 +230,10 @@ nav > ul li:nth-of-type(9) a svg #lichaam:hover {
     nav {
         margin: 1em;
     }
+
+    nav > a, nav button {
+        font-size: .8em;
+    }
     
     nav > ul {
         height: calc(100dvh - 2em);
@@ -291,4 +301,6 @@ nav > ul li:nth-of-type(9) a svg #lichaam:hover {
         grid-row: 11/10;
     }
 }
+
+
 

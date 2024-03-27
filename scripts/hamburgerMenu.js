@@ -6,5 +6,5 @@ closeMenu.addEventListener("click", toggleMenu)
 
 function toggleMenu() {
     let nav = document.querySelector("nav > ul")
-    nav.classList.toggle("toggle-menu-css")
+    nav.classList.toggle("toggle-menu")
 }
