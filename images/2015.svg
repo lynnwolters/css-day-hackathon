@@ -1,0 +1,21 @@
+<svg width="429" height="227" viewBox="0 0 429 227" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="2015">
+<path id="lichaam" fill-rule="evenodd" clip-rule="evenodd" d="M53 0C23.7289 0 0 23.7289 0 53V174C0 203.271 23.7289 227 53 227H203.5H225H376.5C405.495 227 429 203.495 429 174.5C429 145.505 405.495 122 376.5 122H336C303.967 122 278 96.0325 278 64V53C278 23.7289 254.271 0 225 0H53Z" fill="#7BA229"/>
+<g id="mond">
+<path id="Rectangle 10" d="M66 86.6667C66 80.7756 70.7756 76 76.6667 76H99.3333C105.224 76 110 80.7756 110 86.6667C110 98.4487 100.449 108 88.6667 108H87.3333C75.5513 108 66 98.4487 66 86.6667Z" fill="black"/>
+<ellipse id="Ellipse 13" cx="8.81156" cy="4.30793" rx="8.81156" ry="4.30793" transform="matrix(0.829763 -0.558116 0.383493 0.923544 88.7861 98.8359)" fill="white"/>
+</g>
+<g id="ogen">
+<g id="Group 9">
+<circle id="Ellipse 2" cx="46" cy="66" r="15" transform="rotate(-180 46 66)" fill="white"/>
+<circle id="Ellipse 5" cx="46.375" cy="66.375" r="9.375" transform="rotate(-180 46.375 66.375)" fill="black"/>
+<circle id="Ellipse 6" cx="53.75" cy="60.375" r="3.75" transform="rotate(-180 53.75 60.375)" fill="white"/>
+</g>
+<g id="Group 10">
+<circle id="Ellipse 2_2" cx="119" cy="66" r="15" transform="rotate(-90 119 66)" fill="white"/>
+<circle id="Ellipse 5_2" cx="119.375" cy="66.375" r="9.375" transform="rotate(-90 119.375 66.375)" fill="black"/>
+<circle id="Ellipse 6_2" cx="124.625" cy="60.375" r="3.75" transform="rotate(-90 124.625 60.375)" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
