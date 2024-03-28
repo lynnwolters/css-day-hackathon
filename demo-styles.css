@@ -44,6 +44,7 @@
     border: none;
     font-size: clamp(1.6rem, 1.0608rem + 1.8018vw, 2.4rem);
     cursor: pointer;
+    text-decoration: none;
   }
   
   header a{
