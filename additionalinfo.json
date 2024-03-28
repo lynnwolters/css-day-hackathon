@@ -1,0 +1,50 @@
+{
+    "2017": {
+        "linkDemo": "https://cdpn.io/pen/debug/zYXdQBp?authentication_hash=WPMLYxgbOzBr",
+        "speakerDescription": "Mark has over 20 years of experience leading design teams across various digital products. Passionate about design's impact, he remains hands-on, focusing on strategy, research, and conceptual design. A recognized voice in the industry for 15+ years, Mark writes a popular typography newsletter, blogs, and speaks at global conferences.",
+        "jobDescription": "Design Leader and speaker.",
+        "chapters": [{
+                "title": "Chapter 1 - Designing Grids",
+                "content": [
+                    "In the ever-evolving landscape of web design, the power of grids cannot be overstated. With the advent of new tools and CSS capabilities, designers have an arsenal at their disposal to create grids tailored to their needs. Let's delve into some of the exciting possibilities:",
+                    "Uneven Columns:",
+                    "Gone are the days of rigid grid structures. Uneven columns allow for dynamic resizing based on content, ushering in an era of fluid design that adapts effortlessly to varying screen sizes.",
+                    "Gutterless Grid:",
+                    "For a sleek and minimalist aesthetic, the gutterless grid reigns supreme. By eliminating the space between columns, content seamlessly flows within defined boundaries, offering a clean and organized layout.",
+                    "Compound Grid:",
+                    "Enter the realm of complexity with the compound grid. This advanced technique involves overlaying two grids within the same space, resulting in a visually intriguing layout where the gutter takes center stage, commanding attention.",
+                    "Axial Grid:",
+                    "Challenge convention with the axial grid, where traditional vertical and horizontal lines are replaced with sideways orientation. Embrace modernity as your design transcends the norm, captivating users with its unconventional allure.",
+                    "Baseline Grid:",
+                    "Precision meets sophistication with the baseline grid, meticulously crafted around font metrics. While notoriously challenging, this grid finds its niche in the realm of newspapers, where every element aligns flawlessly, exuding professionalism.",
+                    "Modular Grid:",
+                    "Unlock endless possibilities with the modular grid, where individual modules are repeated to form a cohesive layout. Embrace creativity as you explore the interplay of elements within a structured framework.",
+                    "Define Constraints:",
+                    "Every design journey begins with constraints, whether it be legacy images, advertising units, or user traffic patterns. Embrace these limitations as opportunities for innovation, pushing the boundaries of what's possible.",
+                    "Create a Unit:",
+                    "In the realm of grids, consistency is key. Establish a unit based on your constraints, serving as the building block for your design endeavors.",
+                    "Craft the Grid:",
+                    "With your unit in hand, embark on the creation of your grid. Pay meticulous attention to detail as you define column widths, gutters, and spacing, ensuring harmony and balance across the layout.",
+                    "Test and Iterate:",
+                    "As with any creative endeavor, testing and iteration are essential. Put your grid to the test across various devices and scenarios, refining and perfecting until your design sings with seamless elegance."
+                ]
+            },
+            {
+                "title": "Chapter 2 - Using Grids",
+                "content": [
+                    "Harnessing the power of the EM unit, derive your layout from the very essence of typography. Let the words on the screen dictate the structure of your grid, as each letter resonates within the confines of its designated space.",
+                    "However, tread carefully, for not all letters conform neatly within the box of EM. Ascenders and descenders may venture beyond, challenging the uniformity of your layout. Yet, it is within these nuances that the true artistry of grid design emerges, embracing imperfection as a testament to its human touch."
+                ]
+            },
+            {
+                "title": "Chapter 3 - How to Solve Hanging Elements?",
+                "content": [
+                    "Ah, the dreaded hanging elements – punctuation marks that teeter on the brink of disrupting the harmony of your layout. Fear not, for solutions abound in the realm of grid design.",
+                    "To tackle this challenge head-on, dare to nudge the position of elements ever so slightly, coaxing them back into alignment within the confines of your grid. By allowing these elements to gracefully extend beyond their designated boundaries, you preserve the integrity of your layout while maintaining visual cohesion.",
+                    "The same principle applies to bullet points, where subtle adjustments can make all the difference in achieving symmetry and balance. Remember, in the realm of design, even numbers may appear too rigid, while odd numbers exude a sense of fluidity and aesthetic appeal.",
+                    "With these techniques at your disposal, navigate the intricate world of grid design with confidence and finesse, transforming constraints into catalysts for creativity, and hanging elements into seamless elements of your masterpiece."
+                ]
+            }
+        ]
+    }
+}
