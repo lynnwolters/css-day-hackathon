@@ -41,6 +41,7 @@ nav > ul {
     right: 0;
     z-index: 999;
     transform: translateY(calc(-100% - 4em));
+    overflow: hidden;
 
     display: grid;
     grid-template-columns: repeat(24, 1fr);
@@ -73,6 +74,8 @@ nav > ul li {
     position: absolute;
     bottom: 0;
     left: 0;
+
+    margin-bottom: 2.5em;
 
     list-style: none;
 }
@@ -128,6 +131,45 @@ nav > ul li:nth-of-type(9) {
 nav > ul li a svg {
     width: 100%;
     height: 100%;
+}
+
+nav > ul > div {
+    position: absolute;
+    z-index: 3000;
+
+    display: block;
+
+    color: var(--black);
+    font-size: 2em;
+    white-space: nowrap;
+
+    pointer-events: none;
+}
+
+nav > ul > div > div, nav > ul > div > div > span {
+    display: inline-block;
+}
+
+nav > ul > div > div > span {
+    animation: marqueeAnimation linear 14s infinite;
+}
+
+nav > ul > div > div > span span {
+    margin: 0 1.5em;
+}
+
+@keyframes marqueeAnimation {
+    0% {
+        transform: translateX(0);
+    }
+    
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+#lichaam {
+    transition: .6s;
 }
 
 #ogen, #mond {
